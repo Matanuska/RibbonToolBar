@@ -84,7 +84,7 @@
             this.ribbon1.QuickAccessToolbar.Items.Add(this.ribbonButton3);
             this.ribbon1.QuickAccessToolbar.Items.Add(this.ribbonButton4);
             this.ribbon1.RibbonTabFont = new System.Drawing.Font("Trebuchet MS", 9F);
-            this.ribbon1.Size = new System.Drawing.Size(800, 141);
+            this.ribbon1.Size = new System.Drawing.Size(796, 141);
             this.ribbon1.TabIndex = 1;
             this.ribbon1.Tabs.Add(this.ribbonTab1);
             this.ribbon1.Tabs.Add(this.ribbonTab2);
@@ -204,7 +204,7 @@
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(800, 450);
+            this.ClientSize = new System.Drawing.Size(796, 444);
             this.Controls.Add(this.ribbon1);
             this.Controls.Add(this.richTextBox1);
             this.KeyPreview = true;
